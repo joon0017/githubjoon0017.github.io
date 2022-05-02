@@ -1,4 +1,4 @@
-#  {{ page.title }}
+#  블로그의 첫 글
 >github.io 블로그  첫 글
 ### github.io 블로그 첫 글 작성해봅니다.
 ***categories:***
@@ -7,5 +7,5 @@
   1. *Blog*
  
 
-last_modified_at: {{ page.last_modified_at }}
+last_modified_at: 2022-05-02ㅆ20:07:00-08:00
 ---
